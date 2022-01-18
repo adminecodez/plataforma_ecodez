@@ -1,0 +1,200 @@
+body{
+	margin: 0rem;
+	font-family: 'Exo 2', sans-serif;
+	position: relative;
+	z-index: 99;
+
+}
+
+.logo{
+max-height: 54%;
+}
+
+
+.coverindex{
+	height: 400px;
+	background-image: url("../img/baground_inicio.jpg");
+	color:#FFFFFF ;
+	background-size:cover;
+	background-position:center ;
+	background-color:rgba(0, 0, 0, 0.2) ;
+	background-blend-mode: darken;
+}
+
+.coverlogin{
+	height: 700px;
+	background-image: url("../img/sitio-en-construccion.jpg");
+	color:#FFFFFF ;
+	background-size:cover;
+	background-position:center ;
+	background-color:rgba(0, 0, 0, 0.2) ;
+	background-blend-mode: darken;
+}
+
+.bussines{
+	height: 500px;
+	background-image: url("../img/business.png");
+	color:#FFFFFF ;
+	background-size:cover;
+	background-position:center ;
+	background-blend-mode: darken;
+}
+
+.marginseccion{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding-left: 15%;
+	padding-right: 15%;
+	text-align: center;
+}
+
+.border1{
+border: #10920A 2px solid;
+}
+
+.border2{
+border: #0A5D92 2px solid;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.card{
+	border: 0 !important;
+	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+
+.coversmall{
+	height: 300px;
+	background-blend-mode: normal;
+	color:#FFFFFF ;
+	background-size:cover;
+	background-position:center ;
+	background-blend-mode: darken;
+}
+
+
+.space{
+height: 2.5rem;
+text-align: center;
+}
+
+.card-text{
+height: 12rem;
+}
+
+.marginimg{
+height: 250px;
+width: 250px}
+
+.marginimg-sitios{
+height: 50px;
+width: 150px}
+
+.responsive-iframe{
+position: relative;
+padding-top: 56.25%;
+}
+
+.responsive-iframe iframe{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+/*PAGINA NOSOTROS*/
+
+.covernosotros{
+	height: 400px;
+	background-image: url("../img/pet.jpg");
+	color:#ffffff ;
+	background-size:cover;
+	background-position:center ;
+	background-color:rgba(0, 0, 0, 0.0) ;
+	background-blend-mode: darken;
+}
+
+.marginmision{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding-left: 50px;
+	padding-right:500px;
+	text-align: justify;
+}
+
+.margininter{
+	margin-left: 2rem ;
+	margin-right: 2rem ;
+}
+
+.marginvision{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding-left: 500px;
+	padding-right:50px;
+	text-align: justify;
+}
+
+.coverobjetivs{
+	height: 300px;
+	background-image: url("../img/tapas.jpg");
+	color:#FFFFFF ;
+	background-size:cover;
+	background-position:center ;
+	background-color:rgba(0, 0, 0, 0.5) ;
+	background-blend-mode: darken;
+}
+
+
+/*PAGINA DOCUMENTOS*/
+.coverdocs{
+	height: 400px;
+	background-image: url("../img/documentos.jpg");
+	color:#ffffff ;
+	background-size:cover;
+	background-position:center ;
+	background-color:rgba(0, 0, 0, 0.3) ;
+	background-blend-mode: darken;
+}
+
+.tambutton{
+ width: 210px;
+}
+
+#particles-js{
+height: 100vh;
+width: 100%;
+position: fixed;
+z-index: -1;
+}
+
+/*PAGINA CONTACTO*/
+
+.covercontacto{
+	height: 400px;
+	background-image: url("../img/contactanos.jpg");
+	color:#ffffff ;
+	background-size:cover;
+	background-position:center ;
+	background-color:rgba(0, 0, 0, 0.4) ;
+	background-blend-mode: darken;
+}
+
+.size-img{
+	height: 100%;
+	width: 100%;
+}
+
+.centrarelementos{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.ccolor:hover {
+ color: #54A03F; 
+}

@@ -1,0 +1,34 @@
+[30-Mar-2021 20:01:29 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[30-Mar-2021 20:03:36 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[30-Mar-2021 20:30:17 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[30-Mar-2021 20:30:17 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[01-Apr-2021 10:28:25 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[01-Apr-2021 10:28:49 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[14-Apr-2021 20:51:21 America/New_York] PHP Notice:  Undefined index: ingreso_impuesto in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_venta.php on line 115
+[14-Apr-2021 20:51:21 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[14-Apr-2021 20:51:49 America/New_York] PHP Notice:  Undefined index: ingreso_impuesto in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_venta.php on line 115
+[14-Apr-2021 20:51:49 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[14-Apr-2021 21:01:10 America/New_York] PHP Notice:  Undefined index: ingreso_impuesto in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_venta.php on line 115
+[14-Apr-2021 21:01:10 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[01-May-2021 13:02:20 America/New_York] PHP Notice:  Undefined index: ingreso_impuesto in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_venta.php on line 115
+[01-May-2021 13:02:20 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[02-May-2021 21:20:35 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[15-Jul-2021 15:44:21 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[15-Jul-2021 15:44:21 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[03-Aug-2021 17:54:33 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[03-Aug-2021 17:54:33 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[05-Aug-2021 20:54:09 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[05-Aug-2021 20:54:09 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[05-Aug-2021 20:56:25 America/New_York] PHP Notice:  Undefined index: ingreso_impuesto in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_venta.php on line 115
+[05-Aug-2021 20:56:25 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[05-Aug-2021 20:56:53 America/New_York] PHP Notice:  Undefined index: ingreso_impuesto in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_venta.php on line 115
+[05-Aug-2021 20:56:53 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[05-Aug-2021 21:07:09 America/New_York] PHP Notice:  Undefined index: ingreso_impuesto in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_venta.php on line 115
+[05-Aug-2021 21:07:09 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/vendor/mpdf/mpdf/src/Mpdf.php on line 20549
+[29-Dec-2021 10:10:34 America/New_York] PHP Notice:  Undefined index: proveedor_numcontactos in /home/ssoftnet/public_html/Sistema_CompraVenta_vs2/MPDF/generar_ingreso.php on line 67
+[06-Jan-2022 16:59:51 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/asoecod1/public_html/sistemaecodez_v2/conexion_global/r_conexion.php on line 2
+[06-Jan-2022 17:00:06 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/asoecod1/public_html/sistemaecodez_v2/conexion_global/r_conexion.php on line 2
+[06-Jan-2022 17:09:12 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/asoecod1/public_html/sistemaecodez_v2/conexion_global/r_conexion.php on line 2
+[06-Jan-2022 17:12:20 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/asoecod1/public_html/sistemaecodez_v2/conexion_global/r_conexion.php on line 2
+[06-Jan-2022 20:24:34 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/asoecod1/public_html/sistemaecodez_v2/conexion_global/r_conexion.php on line 2
+[14-Jan-2022 16:05:51 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/asoecod1/public_html/sistemaecodez_v2/conexion_global/r_conexion.php on line 2
